@@ -1,3 +1,3 @@
 # Musicon
 
-A sample music instrument online store project using Handlebars.js
+A sample online music instrument store project using Handlebars.js
